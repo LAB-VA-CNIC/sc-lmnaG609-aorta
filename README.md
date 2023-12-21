@@ -371,13 +371,6 @@ dotPlotInt2 <- function (x,title="") {
 # 4 Load Sample Metadata
 
 ``` r
-setwd(dirname(getActiveDocumentContext()$path))
-getwd()
-```
-
-    ## [1] "/home/ctorroja/sc-lmnaG609-aorta"
-
-``` r
 sampleMetadataFile <- "sampleMetadata.txt.gz"
 sampleMetada <- read.delim(sampleMetadataFile,sep = "\t",header = T)
 
@@ -394,16 +387,6 @@ sampleMetada
     ## 2    Mouse ILLUMINA
     ## 3    Mouse ILLUMINA
     ## 4    Mouse ILLUMINA
-    ##                                                     FilteredCellRangerCounts
-    ## 1 Aligned.Reads.CellRanger.mm10/Sample_1_wt1/outs/filtered_feature_bc_matrix
-    ## 2 Aligned.Reads.CellRanger.mm10/Sample_2_hm1/outs/filtered_feature_bc_matrix
-    ## 3 Aligned.Reads.CellRanger.mm10/Sample_3_wt2/outs/filtered_feature_bc_matrix
-    ## 4 Aligned.Reads.CellRanger.mm10/Sample_4_hm2/outs/filtered_feature_bc_matrix
-    ##                                                                                                                                  CellRangerAnalysisPath
-    ## 1 ~/NetVolumes/BioInfoUnit/LABS/U_Bioinformatica/ctorroja/Projects_SC/LAB_VA/Abarettino/Project_AortaSC/Aligned.Reads.CellRanger.mm10/Sample_1_wt1/outs
-    ## 2 ~/NetVolumes/BioInfoUnit/LABS/U_Bioinformatica/ctorroja/Projects_SC/LAB_VA/Abarettino/Project_AortaSC/Aligned.Reads.CellRanger.mm10/Sample_2_hm1/outs
-    ## 3 ~/NetVolumes/BioInfoUnit/LABS/U_Bioinformatica/ctorroja/Projects_SC/LAB_VA/Abarettino/Project_AortaSC/Aligned.Reads.CellRanger.mm10/Sample_3_wt2/outs
-    ## 4 ~/NetVolumes/BioInfoUnit/LABS/U_Bioinformatica/ctorroja/Projects_SC/LAB_VA/Abarettino/Project_AortaSC/Aligned.Reads.CellRanger.mm10/Sample_4_hm2/outs
 
 # 5 Load CellRanger Counts Matrices
 
