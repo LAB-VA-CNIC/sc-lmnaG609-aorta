@@ -1,7 +1,7 @@
 Single Cell Analysis of LmnaG609 and WT mice aortas
 ================
-Ana BarettinoCarlos TorrojaFátima Sánchez-CaboAna QuintasAlberto
-BenguríaAna DopazoIgnacio BenedictoVicente Andrés
+Ana Barettino, Carlos Torroja, Fátima Sánchez-Cabo, Ana Quintas, Alberto
+Benguría, Ana Dopazo, Ignacio Benedicto, Vicente Andrés
 
 - [1 Experimental Design](#1-experimental-design)
 - [2 Data](#2-data)
