@@ -1,7 +1,7 @@
 Single Cell Analysis of LmnaG609 and WT mice aortas
 ================
-Ana Barettino, Carlos Torroja, Fátima Sánchez-Cabo, Ana Quintas, Alberto
-Benguría, Ana Dopazo, Ignacio Benedicto, Vicente Andrés
+Ana Barettino, Carlos Torroja, Fátima Sánchez-Cabo, Ignacio Benedicto,
+Vicente Andrés
 
 - [1 Experimental Design](#1-experimental-design)
 - [2 Data](#2-data)
@@ -128,7 +128,9 @@ journal = {Cell}, year = {2021}, doi = {10.1016/j.cell.2021.04.048}, url
 # 2 Data
 
 To reproduce the analysis of the related paper you will need to download
-from the BioStudies reposotory E-MTAB-XXXXX the following files:
+from the BioStudies reposotory
+[E-MTAB-13678](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-13678)
+the following files:
 
 Samples and Genes Metadata:
 
