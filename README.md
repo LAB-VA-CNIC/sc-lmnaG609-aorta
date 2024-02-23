@@ -134,29 +134,38 @@ the following files:
 
 Samples and Genes Metadata:
 
-sampleMetadata.txt.gz genesMetadata.v84.mar2016.archive.tsv.gz
-GeneSetsForScores.xlsx
+- sampleMetadata.txt.gz
+- genesMetadata.v84.mar2016.archive.tsv.gz
+- GeneSetsForScores.xlsx
 
 CellRanger Quantification Files Per Sample:
 
-Sample_1_wt1_barcodes.tsv.gz Sample_1_wt1_features.tsv.gz
-Sample_1_wt1_matrix.mtx.gz Sample_2_hm1_barcodes.tsv.gz
-Sample_2_hm1_features.tsv.gz Sample_2_hm1_matrix.mtx.gz
-Sample_3_wt2_barcodes.tsv.gz Sample_3_wt2_features.tsv.gz
-Sample_3_wt2_matrix.mtx.gz Sample_4_hm2_barcodes.tsv.gz
-Sample_4_hm2_features.tsv.gz Sample_4_hm2_matrix.mtx.gz
+- Sample_1_wt1_barcodes.tsv.gz
+- Sample_1_wt1_features.tsv.gz
+- Sample_1_wt1_matrix.mtx.gz
+- Sample_2_hm1_barcodes.tsv.gz
+- Sample_2_hm1_features.tsv.gz
+- Sample_2_hm1_matrix.mtx.gz
+- Sample_3_wt2_barcodes.tsv.gz
+- Sample_3_wt2_features.tsv.gz
+- Sample_3_wt2_matrix.mtx.gz
+- Sample_4_hm2_barcodes.tsv.gz
+- Sample_4_hm2_features.tsv.gz
+- Sample_4_hm2_matrix.mtx.gz
 
 Doublets Prediction Files Per Sample:
 
-Sample_1_wt1.doubletsPredictionList.txt.gz
-Sample_2_hm1.doubletsPredictionList.txt.gz
-Sample_3_wt2.doubletsPredictionList.txt.gz
-Sample_4_hm2.doubletsPredictionList.txt.gz
+- Sample_1_wt1.doubletsPredictionList.txt.gz
+- Sample_2_hm1.doubletsPredictionList.txt.gz
+- Sample_3_wt2.doubletsPredictionList.txt.gz
+- Sample_4_hm2.doubletsPredictionList.txt.gz
 
 CellPhone Results Files:
 
-cellphone_deconvoluted.txt.gz cellphone_means.txt.gz
-cellphone_pvalues.txt.gz cellphone_significant_means.txt.gz
+- cellphone_deconvoluted.txt.gz
+- cellphone_means.txt.gz
+- cellphone_pvalues.txt.gz
+- cellphone_significant_means.txt.gz
 
 # 3 SetUp R environment
 
